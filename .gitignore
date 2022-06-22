@@ -1,0 +1,17 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora todos los archivos de texto
+*.txt
+
+#ignora els fitxers creats
+build
+
+#ignora els fitxers de configuració del netbeans
+nbproject
+
+#ignora el package-lock.json
+package-lock.json

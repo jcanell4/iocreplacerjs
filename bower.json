@@ -1,0 +1,17 @@
+{
+    "name": "replacer",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "authors":[
+        "Josep Cañellas Bornas"
+    ],
+    "description":"manager for replacing instructions of IocReplacer syntax",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
