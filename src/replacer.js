@@ -122,7 +122,8 @@ $(document).ready(function () {
                 this.__onError__ = value;
             }else{
                 this.__onError__ = function(){
-                    alert( "error" );
+                    //alert( "error" );
+                    console.error("Error de connexió AJAX.");
                 };
             }
         },
