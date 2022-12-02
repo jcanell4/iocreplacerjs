@@ -122,7 +122,6 @@ Escriu aquí.
         ...
     }
 }
- *
  * 
  * La càrrega d'aquest codi implica l'execució de la funció createReplacerFromTagConfig
  */
